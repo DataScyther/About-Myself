@@ -28,7 +28,7 @@ Here are some of the projects I've been working on:
 ### [Project 1: Matrix UPI QR Code Generator]
 **Description:** [The matrix UPI QR code generator is a platform where you can generate custom qr code with amount with the feeling of high tech and like matrix effects and personalized AI Speech synthesis.]  
 **Tech stack:** [HTML5 CSS3 Javascript ]  
-**Repository:** [Link to the repository]
+**Repository:** [https://github.com/taigunnk/UPI-MATRIX]
 
 
 ## Contributions
