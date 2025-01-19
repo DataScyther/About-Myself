@@ -3,12 +3,12 @@ Creating a profile README for your GitHub profile is a great way to introduce yo
 ```markdown
 # Hi there, I'm Taigunnk 👋
 
-Welcome to my GitHub profile! I'm passionate about software development and love working on new and exciting projects. Here you'll find a collection of my work, including personal projects, contributions to open source, and collaborative efforts.
+Welcome to my GitHub profile! I'm passionate about Data Science  and love working on new and exciting projects. Here you'll find a collection of my work, including personal projects, contributions to open source, and collaborative efforts.
 
 ## About Me
 
-- 💻 I’m a software developer with a keen interest in [your interest areas, e.g., web development, machine learning, etc.].
-- 🌱 I’m currently learning [what you're learning, e.g., advanced algorithms, containerization with Docker, etc.].
+- 💻 I’m a Data Scientist  with a keen interest in [ data science, artificial intelligence, web development, machine learning, etc.].
+- 🌱 I’m currently learning [advanced algorithms, containerization with Docker, etc.].
 - 👯 I’m looking to collaborate on [open source projects, side projects, etc.].
 - 🤔 I’m looking for help with [any particular topic or project you're working on].
 - 💬 Ask me about [topics you are knowledgeable in or passionate about].
