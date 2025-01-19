@@ -1,7 +1,7 @@
 Creating a profile README for your GitHub profile is a great way to introduce yourself to others in the GitHub community. Below is a sample README that you can customize to fit your needs:
 
 ```markdown
-# Hi there, I'm Taigunnk 👋
+# Hi there, I'm NK 👋
 
 Welcome to my GitHub profile! I'm passionate about Data Science  and love working on new and exciting projects. Here you'll find a collection of my work, including personal projects, contributions to open source, and collaborative efforts.
 
