@@ -43,7 +43,7 @@ Hello! I’m Nishant Kumar, a passionate and innovative Data Scientist in the ma
 	•	📧 Email: ishantkumaryts@gmail.com
 	•	🔗 LinkedIn: linkedin.com/in/nishantkumarakadatascyther
 	•	💻 GitHub: github.com/DataScyther
-	•	📱 Phone: +91 8826379598
+	
 
 ⸻
 
