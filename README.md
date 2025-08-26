@@ -1,4 +1,4 @@
-# Hello World! I'm DataScyther 👋
+# Hello World! I'm NK 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Future+Data+Scientist;AI%2FML+Enthusiast;Cloud+Computing+Expert;Creating+Tomorrow's+Solutions+Today" alt="Typing SVG" />
@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/datascyther/"><img src="https://img.shields.io/badge/-DataScyther-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="https://datascyther.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-00C7B7?style=flat-square&logo=vercel&logoColor=white"/></a>
-  <a href="https://x.com/taigunnk"><img src="https://img.shields.io/badge/-@taigunnk-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+  <a href="https://x.com/datascythers"><img src="https://img.shields.io/badge/-@datascythers-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=DataScyther&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </div>
 
@@ -64,8 +64,19 @@ Futuristic payment system with immersive Matrix theme
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataScyther&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
+## 🔥 Streak Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DataScyther&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DataScyther&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
+</div>
+
+## 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DataScyther&theme=radical" alt="Contribution Graph"/>
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DataScyther&theme=radical&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -74,8 +85,8 @@ Futuristic payment system with immersive Matrix theme
   <i>Let's connect and build amazing things together!</i>
   <br><br>
   <a href="https://www.linkedin.com/in/datascyther/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://x.com/taigunnk"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter"/></a>
+  <a href="https://x.com/datascythers"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter"/></a>
   <a href="https://datascyther.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=vercel"/></a>
 </div>
 
-<!-- Last updated: 2025-08-26 -->
+<!-- Last updated: 2025-08-26 07:00:49 UTC -->
