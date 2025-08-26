@@ -1,7 +1,7 @@
 # Hello World! I'm NK 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Future+Data+Scientist;AI%2FML+Enthusiast;Cloud+Computing+Expert;Creating+Tomorrow's+Solutions+Today" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Future+Data+Scientist;AI%2FML+Expert;Cloud+Computing+Enthusiast;Creating+Tomorrow's+Solutions+Today" alt="Typing SVG" />
 </div>
 
 <div align="center">
