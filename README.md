@@ -1,103 +1,81 @@
+# Hello World! I'm DataScyther 👋
 
-# Hi there, I'm NK 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Future+Data+Scientist;AI%2FML+Enthusiast;Cloud+Computing+Expert;Creating+Tomorrow's+Solutions+Today" alt="Typing SVG" />
+</div>
 
-Welcome to my GitHub profile! I'm passionate about Data Science  and love working on new and exciting projects. Here you'll find a collection of my work, including personal projects, contributions to open source, and collaborative efforts.
+<div align="center">
+  <a href="https://www.linkedin.com/in/datascyther/"><img src="https://img.shields.io/badge/-DataScyther-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://datascyther.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-00C7B7?style=flat-square&logo=vercel&logoColor=white"/></a>
+  <a href="https://x.com/taigunnk"><img src="https://img.shields.io/badge/-@taigunnk-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=DataScyther&color=blueviolet&style=flat-square" alt="Profile Views"/>
+</div>
 
-## About Me
+## 🚀 About Me
+🎯 Future Data Scientist passionate about **Generative AI** & **Cloud Computing** (AWS | GCP)  
+🔬 Specializing in Python, AI/ML, LLMs, and MLOps  
+☁️ Working with cutting-edge cloud technologies  
+🌟 Turning Data into Superpowers | Predicting Tomorrow, Today
 
-⸻
+## 💻 Tech Stack
+<div align="center">
 
-	•	💻 I’m a Data Scientist with a keen interest in data science, artificial intelligence, web development, machine learning, cloud computing, and generative AI.
-	•	🌱 I’m currently learning advanced algorithms, containerization with Docker, MLOps, and cloud integration using AWS and GCP.
-	•	👯 I’m looking to collaborate on open-source projects, innovative side projects in AI/ML, and futuristic web apps.
-	•	🤔 I’m looking for help with deploying scalable ML models in production and contributing to large-scale data science platforms.
-	•	💬 Ask me about data analytics, machine learning algorithms, generative AI, data visualization tools like Power BI/Tableau, or building interactive web apps.
-	•	📫 How to reach me:
-	•	📧 Email: ishantkumaryts@gmail.com
-	•	💼 LinkedIn: linkedin.com/in/nishantkumarakadatascyther
-	•	💻 GitHub: github.com/DataScyther
-	•	⚡ Fun fact: I once turned nursery rhymes into a 4D musical sphere web animation, and I’m obsessed with blending sci-fi aesthetics with real-world technology.
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Advanced-FF6F61?style=for-the-badge&logo=tensorflow)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-Advanced-FF6F61?style=for-the-badge&logo=pytorch)
+![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws)
+![GCP](https://img.shields.io/badge/GCP-Proficient-4285F4?style=for-the-badge&logo=google-cloud)
+![MLOps](https://img.shields.io/badge/MLOps-Intermediate-00C7B7?style=for-the-badge&logo=docker)
 
-⸻
+</div>
 
-Absolutely! Here’s an enhanced and expanded version of the “About Me” and “Skills” sections, tailored to your futuristic data scientist-themed portfolio:
+## 🌟 Featured Projects
 
-⸻
+### 🧠 AI Mental Wellness App
+Revolutionary platform enhancing mental health support through AI
+- AI-Powered 24/7 emotional support system
+- Personalized user experience with adaptive content
+- Advanced encryption & privacy-first architecture
+- `React Native` `Node.js` `Express` `NLP` `Supabase`
 
-👨‍💻 About Me
+### 💫 Matrix UPI QR Code Generator
+Futuristic payment system with immersive Matrix theme
+- Matrix-inspired UI with stunning animations
+- Voice-assisted QR code generation
+- AR preview & real-time UPI validation
+- `HTML5` `CSS3` `JavaScript` `Three.js`
 
-Hello! I’m Nishant Kumar, a passionate and innovative Data Scientist in the making with a futuristic mindset and a drive to build tech that feels ahead of its time. With a foundation in Computer Science Engineering (specializing in Data Science) from Dr. A. P. J. Abdul Kalam Technical University (Class of 2027), I’m fueled by curiosity and creativity.
+### 🌐 Personal Portfolio
+[datascyther.vercel.app](https://datascyther.vercel.app/)
+- Showcase of data science & AI/ML projects
+- Professional background & achievements
+- Educational content & tech insights
 
-🔍 I explore how data science, artificial intelligence, machine learning, and web development can blend into real-world applications—especially with a touch of hyperfuturistic design. Whether it’s reimagining financial tech with Matrix rain animations or transforming nursery rhymes into immersive 4D sound spheres, I thrive at the intersection of imagination and implementation.
+## 🎓 Certifications & Achievements
+- 📜 IBM: Python for Data Science
+- 🏆 Microsoft Azure AI Essentials Professional Certificate
+- ☁️ AWS Certification: Generative AI in Action
+- 🎯 Multiple Real-World Use Case Implementations
 
-⸻
+## 📊 GitHub Analytics
 
-💼 Professional Goals
-	•	💡 Currently diving deeper into advanced algorithms, containerization with Docker, MLOps, and cloud services like AWS & GCP.
-	•	🤝 Looking to collaborate on open-source initiatives, innovative side projects, and anything involving AI for good.
-	•	🚀 Eager to apply my growing skillset in a Data Scientist Intern or Entry-Level role where I can contribute to impactful solutions and learn from experienced teams.
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DataScyther&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataScyther&layout=compact&langs_count=8&theme=radical"/>
+</div>
 
-⸻
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DataScyther&theme=radical" alt="GitHub Streak Stats" />
+</div>
 
-📬 Let’s Connect
-	•	📧 Email: ishantkumaryts@gmail.com
-	•	🔗 LinkedIn: linkedin.com/in/nishantkumarakadatascyther
-	•	💻 GitHub: github.com/DataScyther
-	
+---
 
-⸻
+<div align="center">
+  <i>Let's connect and build amazing things together!</i>
+  <br><br>
+  <a href="https://www.linkedin.com/in/datascyther/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://x.com/taigunnk"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter"/></a>
+  <a href="https://datascyther.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=vercel"/></a>
+</div>
 
-⚡ Fun Fact
-
-I once built an entire UPI payment web system with voice assistance, neon animations, and AR preview features—because why shouldn’t fintech feel like the future?
-
-⸻
-
-🛠️ My Skills
-
-💻 Programming Languages
-	•	Python (Core, Data Science, Automation)
-	•	R Programming
-	•	C, Java (Intermediate)
-	•	HTML5, CSS3, JavaScript (for interactive and futuristic web interfaces)
-
-🧠 Data Science & AI
-	•	Data Analysis, Exploratory Data Analysis (EDA)
-	•	Machine Learning (Scikit-learn, PyTorch, TensorFlow)
-	•	Statistical Modeling & Predictive Analysis
-	•	Generative AI & Natural Language Processing
-	•	Data-Driven Decision Making
-	•	Data Cleaning & Validation
-
-📊 Data Visualization
-	•	Tableau
-	•	Power BI
-	•	Matplotlib & Seaborn
-	•	Plotly (for interactive dashboards)
-
-🗃️ Data Management
-	•	SQL
-	•	Relational Databases
-	•	Data Modeling & ETL Processes
-
-🌐 Web Development
-	•	Frontend: HTML5, CSS Animations, JavaScript
-	•	Backend: Flask (Python)
-	•	3D/Animation: Three.js, Matrix-inspired canvas rendering
-
-🔧 Tools & Platforms
-	•	VS Code
-	•	Git & GitHub
-	•	GitHub Copilot
-	•	Jupyter Notebook
-	•	Google Colab
-	•	AWS (Solutions Architect Level)
-	•	GCP (Learning Phase)
-
-🔄 Soft Skills & Workflow
-	•	Analytical Thinking & Problem Solving
-	•	Technical Communication
-	•	Team Collaboration & Project Planning
-	•	Leadership & Presentation Skills
-	•	Agile Development & Scrum Basics
-
+<!-- Last updated: 2025-08-26 -->
