@@ -1,4 +1,4 @@
-# Hello World! I'm NK 👋
+# Hello World! I'm DataScyther 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Future+Data+Scientist;AI%2FML+Enthusiast;Cloud+Computing+Expert;Creating+Tomorrow's+Solutions+Today" alt="Typing SVG" />
@@ -78,4 +78,4 @@ Futuristic payment system with immersive Matrix theme
   <a href="https://datascyther.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=vercel"/></a>
 </div>
 
-<!-- Last updated: 2025-08-26 06:42:36 UTC -->
+<!-- Last updated: 2025-08-26 -->
